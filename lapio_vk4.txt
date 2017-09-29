@@ -4,3 +4,6 @@ KOLME!
 riviä!
 
 Lapiokurssin lempiviikko? En ummarra.
+
+
+Muutan tiedostoa GitHubissa.
