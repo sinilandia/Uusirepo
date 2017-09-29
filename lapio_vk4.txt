@@ -1,4 +1,4 @@
-Tekstiä!
+﻿Tekstiä!
 Vähintään!
 KOLME!
 riviä!
@@ -7,3 +7,5 @@ Lapiokurssin lempiviikko? En ummarra.
 
 
 Muutan tiedostoa GitHubissa.
+
+Muutoksia myös täällä kotikoneella.
